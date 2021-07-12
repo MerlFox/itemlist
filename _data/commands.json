@@ -758,7 +758,7 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "mod": null
+      "mod": "Unknown"
     },
     "description": null,
     "name": "Viewer class",
@@ -771,7 +771,7 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "mod": "ToolkitCore"
+      "mod": "ToolkitRimWorld"
     },
     "description": null,
     "name": "hello",
