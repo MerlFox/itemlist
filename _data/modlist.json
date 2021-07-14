@@ -90,18 +90,6 @@
     "version": "0.6.3.2194"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "Ferian Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "general223 Updated by Ogliss",
     "name": "Wandering Caravans",
     "steamId": null,
@@ -153,6 +141,6 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
-    "version": "6.1.0.0-rc1"
+    "version": "6.1.0.0-rc3"
   }
 ]

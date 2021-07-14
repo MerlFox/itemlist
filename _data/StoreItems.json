@@ -226,19 +226,19 @@
       "abr": "bed",
       "category": "Furniture",
       "defname": "Bed",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "doublebed",
       "category": "Furniture",
       "defname": "DoubleBed",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "hospitalbed",
@@ -250,13 +250,13 @@
       "abr": "bedroll",
       "category": "Furniture",
       "defname": "Bedroll",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "doublebedroll",
       "category": "Furniture",
       "defname": "BedrollDouble",
-      "price": -10
+      "price": 290
     },
     {
       "abr": "animalsleepingbox",
@@ -268,7 +268,7 @@
       "abr": "animalbed",
       "category": "Furniture",
       "defname": "AnimalBed",
-      "price": -10
+      "price": 136
     },
     {
       "abr": "stool",
@@ -280,19 +280,19 @@
       "abr": "diningchair",
       "category": "Furniture",
       "defname": "DiningChair",
-      "price": -10
+      "price": 198
     },
     {
       "abr": "armchair",
       "category": "Furniture",
       "defname": "Armchair",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "endtable",
       "category": "Furniture",
       "defname": "EndTable",
-      "price": -10
+      "price": 106
     },
     {
       "abr": "table(1x2)",
@@ -1012,7 +1012,7 @@
       "abr": "dresser",
       "category": "Furniture",
       "defname": "Dresser",
-      "price": -10
+      "price": 179
     },
     {
       "abr": "horseshoespin",
@@ -1102,7 +1102,7 @@
       "abr": "pokertable",
       "category": "Furniture",
       "defname": "PokerTable",
-      "price": -10
+      "price": 400
     },
     {
       "abr": "resourceconsole",
@@ -1126,13 +1126,13 @@
       "abr": "kyulen",
       "category": "Animals",
       "defname": "Ninetailfoxwt",
-      "price": 11667
+      "price": 5000
     },
     {
       "abr": "kyulen",
       "category": "Animals",
       "defname": "Ninetailfox",
-      "price": 11667
+      "price": 5000
     },
     {
       "abr": "kyulenbead",
@@ -1150,7 +1150,7 @@
       "abr": "billiardstable",
       "category": "Furniture",
       "defname": "BilliardsTable",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "tubetelevision",
@@ -1708,7 +1708,7 @@
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "steel",
@@ -2182,7 +2182,7 @@
       "abr": "smokelauncher",
       "category": "Ranged weapons",
       "defname": "Gun_SmokeLauncher",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "emplauncher",
@@ -2842,7 +2842,7 @@
       "abr": "brazier",
       "category": "Furniture",
       "defname": "Brazier",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "cactusfruit",
@@ -2999,18 +2999,6 @@
       "category": "Apparel",
       "defname": "Apparel_PsyfocusVest",
       "price": 833
-    },
-    {
-      "abr": "ferian",
-      "category": "Animal",
-      "defname": "AFerian",
-      "price": -10
-    },
-    {
-      "abr": "ferianleather",
-      "category": "Leathers",
-      "defname": "Leather_Ferian",
-      "price": 8
     },
     {
       "abr": "fieldhand",
@@ -3244,19 +3232,19 @@
       "abr": "dualrefrigerator",
       "category": "Furniture",
       "defname": "RimFridge_Refrigerator",
-      "price": 186
+      "price": -10
     },
     {
       "abr": "eggbox",
       "category": "Misc",
       "defname": "EggBox",
-      "price": -10
+      "price": 79
     },
     {
       "abr": "kyulenbed",
       "category": "Furniture",
       "defname": "NinetailAnimalBed",
-      "price": -10
+      "price": 1933
     },
     {
       "abr": "neutroamine",
@@ -3574,8 +3562,8 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
-  "total": 596
+  "total": 594
 }

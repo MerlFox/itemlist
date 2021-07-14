@@ -76,6 +76,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shortcircuit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "toxicfallout",
 		"price": 6500,
 		"karmatype": "Doom"
@@ -211,6 +216,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -269,16 +279,6 @@
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
