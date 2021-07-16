@@ -84,12 +84,6 @@
     "version": null
   },
   {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2194"
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
@@ -154,23 +148,5 @@
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
     "version": "6.1.0.0-rc3"
-  },
-  {
-    "author": "PunkyRoo",
-    "name": "Slime Rancher",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Edge Crescent",
-    "name": "HousekeeperAssistanceCat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "avilmask",
-    "name": "Grazing Lands",
-    "steamId": "1770268130",
-    "version": "1.0.0.0"
   }
 ]
