@@ -46,7 +46,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "yayo",
@@ -1120,30 +1120,6 @@
       "abr": "napalmbomb",
       "category": "Oil",
       "defname": "NapalmBomb",
-      "price": -10
-    },
-    {
-      "abr": "kyulen",
-      "category": "Animals",
-      "defname": "Ninetailfoxwt",
-      "price": 5000
-    },
-    {
-      "abr": "kyulen",
-      "category": "Animals",
-      "defname": "Ninetailfox",
-      "price": 5000
-    },
-    {
-      "abr": "kyulenbead",
-      "category": "Artifacts",
-      "defname": "Foxbead",
-      "price": -10
-    },
-    {
-      "abr": "kyulentail",
-      "category": "Items",
-      "defname": "NinetailfoxTail",
       "price": -10
     },
     {
@@ -2506,7 +2482,7 @@
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
-      "price": -10
+      "price": 3000
     },
     {
       "abr": "hare",
@@ -2950,7 +2926,7 @@
       "abr": "drape",
       "category": "Furniture",
       "defname": "Drape",
-      "price": 608
+      "price": -10
     },
     {
       "abr": "drillarm",
@@ -3241,12 +3217,6 @@
       "price": 79
     },
     {
-      "abr": "kyulenbed",
-      "category": "Furniture",
-      "defname": "NinetailAnimalBed",
-      "price": 1933
-    },
-    {
       "abr": "neutroamine",
       "category": "Manufactured",
       "defname": "Neutroamine",
@@ -3274,7 +3244,7 @@
       "abr": "orbitalmechclustertargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterMechCluster",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "peach",
@@ -3424,7 +3394,7 @@
       "abr": "shieldcore",
       "category": "Items",
       "defname": "BroadshieldCore",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "shiplandingbeacon",
@@ -3541,6 +3511,114 @@
       "price": 608
     },
     {
+      "abr": "ferian",
+      "category": "Animal",
+      "defname": "AFerian",
+      "price": -10
+    },
+    {
+      "abr": "ferianleather",
+      "category": "Leathers",
+      "defname": "Leather_Ferian",
+      "price": -10
+    },
+    {
+      "abr": "bricks",
+      "category": "Stone blocks",
+      "defname": "RFFBricks",
+      "price": 3
+    },
+    {
+      "abr": "clay",
+      "category": "Raw resources",
+      "defname": "RFFClay",
+      "price": 3
+    },
+    {
+      "abr": "compostbarrel",
+      "category": "Production",
+      "defname": "CompostBarrel",
+      "price": -10
+    },
+    {
+      "abr": "crushedrocks",
+      "category": "Raw resources",
+      "defname": "CrushedRocks",
+      "price": -10
+    },
+    {
+      "abr": "fertilizer",
+      "category": "Raw resources",
+      "defname": "Fertilizer",
+      "price": -10
+    },
+    {
+      "abr": "heavysandbags",
+      "category": "Security",
+      "defname": "HeavySandbags",
+      "price": -10
+    },
+    {
+      "abr": "kyulen",
+      "category": "Animals",
+      "defname": "Ninetailfox",
+      "price": 5000
+    },
+    {
+      "abr": "kyulen",
+      "category": "Animals",
+      "defname": "Ninetailfoxwt",
+      "price": 5000
+    },
+    {
+      "abr": "kyulenbead",
+      "category": "Artifacts",
+      "defname": "Foxbead",
+      "price": -10
+    },
+    {
+      "abr": "kyulenbed",
+      "category": "Furniture",
+      "defname": "NinetailAnimalBed",
+      "price": 1933
+    },
+    {
+      "abr": "kyulentail",
+      "category": "Items",
+      "defname": "NinetailfoxTail",
+      "price": -10
+    },
+    {
+      "abr": "pileofdirt",
+      "category": "Raw resources",
+      "defname": "PileofDirt",
+      "price": -10
+    },
+    {
+      "abr": "pileofsand",
+      "category": "Raw resources",
+      "defname": "SandPile",
+      "price": -10
+    },
+    {
+      "abr": "rawcompost",
+      "category": "Raw resources",
+      "defname": "RawCompost",
+      "price": -10
+    },
+    {
+      "abr": "rockmill",
+      "category": "Production",
+      "defname": "RockMill",
+      "price": 542
+    },
+    {
+      "abr": "sandbags",
+      "category": "Security",
+      "defname": "Sandbags",
+      "price": -10
+    },
+    {
       "abr": "watermelon",
       "category": "Fruits",
       "defname": "Rawwatermelon",
@@ -3559,16 +3637,142 @@
       "price": 3333
     },
     {
-      "abr": "ferian",
-      "category": "Animal",
-      "defname": "AFerian",
+      "abr": "fireplort",
+      "category": "Eggs (unfert.)",
+      "defname": "FirePlort",
       "price": -10
     },
     {
-      "abr": "ferianleather",
-      "category": "Leathers",
-      "defname": "Leather_Ferian",
-      "price": 8
+      "abr": "puddleplort",
+      "category": "Eggs (unfert.)",
+      "defname": "PuddlePlort",
+      "price": -10
+    },
+    {
+      "abr": "crystal",
+      "category": "Raw resources",
+      "defname": "RimlaserCrystal",
+      "price": 500
+    },
+    {
+      "abr": "fireplort(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "FirePlortFertilized",
+      "price": -10
+    },
+    {
+      "abr": "fireslime",
+      "category": "Animals",
+      "defname": "FireSlime",
+      "price": -10
+    },
+    {
+      "abr": "fireslimemeat",
+      "category": "Meat",
+      "defname": "Meat_FireSlime",
+      "price": 3
+    },
+    {
+      "abr": "garin'shyperboloid",
+      "category": "Ranged weapons",
+      "defname": "Rimlaser_DeathRay",
+      "price": 8042
+    },
+    {
+      "abr": "greenplort",
+      "category": "Eggs (unfert.)",
+      "defname": "GreenPlort",
+      "price": -10
+    },
+    {
+      "abr": "greenplort(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "GreenPlortFertilized",
+      "price": -10
+    },
+    {
+      "abr": "heavylaser",
+      "category": "Ranged weapons",
+      "defname": "Rimlaser_LaserHeavy",
+      "price": 2442
+    },
+    {
+      "abr": "incendiarylaser",
+      "category": "Ranged weapons",
+      "defname": "Rimlaser_LaserIncendiary",
+      "price": -10
+    },
+    {
+      "abr": "laserminigun",
+      "category": "Ranged weapons",
+      "defname": "Rimlaser_LaserMinigun",
+      "price": 1725
+    },
+    {
+      "abr": "lasermini-turret",
+      "category": "Security",
+      "defname": "MiniTurret_Laser",
+      "price": -10
+    },
+    {
+      "abr": "laserpistol",
+      "category": "Ranged weapons",
+      "defname": "Rimlaser_LaserPistol",
+      "price": 483
+    },
+    {
+      "abr": "laserrifle",
+      "category": "Ranged weapons",
+      "defname": "Rimlaser_LaserRifle",
+      "price": 1100
+    },
+    {
+      "abr": "lasersniperrifle",
+      "category": "Ranged weapons",
+      "defname": "Rimlaser_LaserSniper",
+      "price": 1500
+    },
+    {
+      "abr": "prism",
+      "category": "Items",
+      "defname": "RimlaserPrism",
+      "price": 200
+    },
+    {
+      "abr": "puddleplort(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "PuddlePlortFertilized",
+      "price": -10
+    },
+    {
+      "abr": "puddleslime",
+      "category": "Animals",
+      "defname": "PuddleSlime",
+      "price": -10
+    },
+    {
+      "abr": "puddleslimemeat",
+      "category": "Meat",
+      "defname": "Meat_PuddleSlime",
+      "price": 3
+    },
+    {
+      "abr": "slime",
+      "category": "Animals",
+      "defname": "GreenSlime",
+      "price": -10
+    },
+    {
+      "abr": "slimemeat",
+      "category": "Meat",
+      "defname": "Meat_GreenSlime",
+      "price": 3
+    },
+    {
+      "abr": "teslagun",
+      "category": "Ranged weapons",
+      "defname": "Rimlaser_TeslaGun",
+      "price": -10
     },
     {
       "abr": "zombrella",
@@ -3577,5 +3781,5 @@
       "price": 3333
     }
   ],
-  "total": 596
+  "total": 630
 }

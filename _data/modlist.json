@@ -43,12 +43,6 @@
   },
   {
     "author": "[KOR]Bichang",
-    "name": "Kyulen - NinetailFox",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "[KOR]Bichang",
     "name": "Sacred WhiteFox",
     "steamId": null,
     "version": null
@@ -120,6 +114,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Rainbeau Flambe and Jamaican Castle",
+    "name": "Fertile Fields [1.1]",
+    "steamId": "2012735237",
+    "version": "1.0.7862.30544"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Kyulen - NinetailFox",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -132,21 +138,45 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils - Testing",
+    "steamId": "2230192317",
+    "version": "6.1.0.0-rc3"
+  },
+  {
     "author": "hodlhodl",
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
   },
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.2.0"
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils - Testing",
-    "steamId": "2230192317",
-    "version": "6.1.0.0-rc3"
+    "author": "avilmask",
+    "name": "Grazing Lands",
+    "steamId": "1770268130",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PunkyRoo",
+    "name": "Slime Rancher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Consolidated Traits",
+    "steamId": "1507384362",
+    "version": "1.0.7865.41688"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Rimlaser",
+    "steamId": null,
+    "version": null
   }
 ]
