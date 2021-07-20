@@ -78,18 +78,6 @@
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "Ferian Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "general223 Updated by Ogliss",
     "name": "Wandering Caravans",
     "steamId": null,
@@ -141,7 +129,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
-    "version": "6.1.0.0-rc3"
+    "version": "6.1.0.0"
   },
   {
     "author": "hodlhodl",
@@ -162,21 +150,15 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "PunkyRoo",
-    "name": "Slime Rancher",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] Consolidated Traits",
     "steamId": "1507384362",
     "version": "1.0.7865.41688"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Rimlaser",
-    "steamId": null,
-    "version": null
+    "author": "Abe Vriens",
+    "name": "Colonists' Deco",
+    "steamId": "2181788064",
+    "version": "0.1.0"
   }
 ]

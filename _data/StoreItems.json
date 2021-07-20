@@ -46,7 +46,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "yayo",
@@ -1120,6 +1120,30 @@
       "abr": "napalmbomb",
       "category": "Oil",
       "defname": "NapalmBomb",
+      "price": -10
+    },
+    {
+      "abr": "kyulen",
+      "category": "Animals",
+      "defname": "Ninetailfoxwt",
+      "price": 5000
+    },
+    {
+      "abr": "kyulen",
+      "category": "Animals",
+      "defname": "Ninetailfox",
+      "price": 5000
+    },
+    {
+      "abr": "kyulenbead",
+      "category": "Artifacts",
+      "defname": "Foxbead",
+      "price": -10
+    },
+    {
+      "abr": "kyulentail",
+      "category": "Items",
+      "defname": "NinetailfoxTail",
       "price": -10
     },
     {
@@ -2482,7 +2506,7 @@
       "abr": "thrumbo",
       "category": "Animals",
       "defname": "Thrumbo",
-      "price": 3000
+      "price": -10
     },
     {
       "abr": "hare",
@@ -3217,6 +3241,12 @@
       "price": 79
     },
     {
+      "abr": "kyulenbed",
+      "category": "Furniture",
+      "defname": "NinetailAnimalBed",
+      "price": 1933
+    },
+    {
       "abr": "neutroamine",
       "category": "Manufactured",
       "defname": "Neutroamine",
@@ -3244,7 +3274,7 @@
       "abr": "orbitalmechclustertargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterMechCluster",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "peach",
@@ -3346,7 +3376,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": 4333
+      "price": -10
     },
     {
       "abr": "quadrefrigerator",
@@ -3511,16 +3541,22 @@
       "price": 608
     },
     {
-      "abr": "ferian",
-      "category": "Animal",
-      "defname": "AFerian",
-      "price": -10
+      "abr": "watermelon",
+      "category": "Fruits",
+      "defname": "Rawwatermelon",
+      "price": 2
     },
     {
-      "abr": "ferianleather",
+      "abr": "whitefoxfur",
       "category": "Leathers",
-      "defname": "Leather_Ferian",
-      "price": -10
+      "defname": "Leather_Whitefox",
+      "price": 16
+    },
+    {
+      "abr": "zeushammer",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_Zeushammer",
+      "price": 3333
     },
     {
       "abr": "bricks",
@@ -3532,7 +3568,7 @@
       "abr": "clay",
       "category": "Raw resources",
       "defname": "RFFClay",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "compostbarrel",
@@ -3556,36 +3592,6 @@
       "abr": "heavysandbags",
       "category": "Security",
       "defname": "HeavySandbags",
-      "price": -10
-    },
-    {
-      "abr": "kyulen",
-      "category": "Animals",
-      "defname": "Ninetailfox",
-      "price": 5000
-    },
-    {
-      "abr": "kyulen",
-      "category": "Animals",
-      "defname": "Ninetailfoxwt",
-      "price": 5000
-    },
-    {
-      "abr": "kyulenbead",
-      "category": "Artifacts",
-      "defname": "Foxbead",
-      "price": -10
-    },
-    {
-      "abr": "kyulenbed",
-      "category": "Furniture",
-      "defname": "NinetailAnimalBed",
-      "price": 1933
-    },
-    {
-      "abr": "kyulentail",
-      "category": "Items",
-      "defname": "NinetailfoxTail",
       "price": -10
     },
     {
@@ -3616,170 +3622,368 @@
       "abr": "sandbags",
       "category": "Security",
       "defname": "Sandbags",
+      "price": 18
+    },
+    {
+      "abr": "animalistslab(broad)",
+      "category": "Furniture",
+      "defname": "AnimalistSlab_Broad",
       "price": -10
     },
     {
-      "abr": "watermelon",
-      "category": "Fruits",
-      "defname": "Rawwatermelon",
-      "price": 2
-    },
-    {
-      "abr": "whitefoxfur",
-      "category": "Leathers",
-      "defname": "Leather_Whitefox",
-      "price": 16
-    },
-    {
-      "abr": "zeushammer",
-      "category": "Melee weapons",
-      "defname": "MeleeWeapon_Zeushammer",
-      "price": 3333
-    },
-    {
-      "abr": "fireplort",
-      "category": "Eggs (unfert.)",
-      "defname": "FirePlort",
+      "abr": "animalistslab(medium)",
+      "category": "Furniture",
+      "defname": "AnimalistSlab_Medium",
       "price": -10
     },
     {
-      "abr": "puddleplort",
-      "category": "Eggs (unfert.)",
-      "defname": "PuddlePlort",
+      "abr": "ark",
+      "category": "Inert relics",
+      "defname": "RelicInertArk",
       "price": -10
     },
     {
-      "abr": "crystal",
-      "category": "Raw resources",
-      "defname": "RimlaserCrystal",
-      "price": 500
-    },
-    {
-      "abr": "fireplort(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "FirePlortFertilized",
+      "abr": "authoritycap",
+      "category": "Headgear",
+      "defname": "Apparel_AuthorityCap",
       "price": -10
     },
     {
-      "abr": "fireslime",
-      "category": "Animals",
-      "defname": "FireSlime",
+      "abr": "biosculpterpod",
+      "category": "Misc",
+      "defname": "BiosculpterPod",
       "price": -10
     },
     {
-      "abr": "fireslimemeat",
+      "abr": "blindfold",
+      "category": "Headgear",
+      "defname": "Apparel_Blindfold",
+      "price": -10
+    },
+    {
+      "abr": "bonsaipot",
+      "category": "Furniture",
+      "defname": "PlantPot_Bonsai",
+      "price": -10
+    },
+    {
+      "abr": "box",
+      "category": "Inert relics",
+      "defname": "RelicInertBox",
+      "price": -10
+    },
+    {
+      "abr": "broadwrap",
+      "category": "Headgear",
+      "defname": "Apparel_Broadwrap",
+      "price": -10
+    },
+    {
+      "abr": "burka",
+      "category": "Apparel",
+      "defname": "Apparel_Burka",
+      "price": -10
+    },
+    {
+      "abr": "burnbong",
+      "category": "Misc",
+      "defname": "Burnbong",
+      "price": -10
+    },
+    {
+      "abr": "cannibalplatter",
+      "category": "Misc",
+      "defname": "CannibalPlatter",
+      "price": -10
+    },
+    {
+      "abr": "chalice",
+      "category": "Inert relics",
+      "defname": "RelicInertCup",
+      "price": -10
+    },
+    {
+      "abr": "christmastree",
+      "category": "Misc",
+      "defname": "ChristmasTree",
+      "price": -10
+    },
+    {
+      "abr": "cube",
+      "category": "Inert relics",
+      "defname": "RelicInertCube",
+      "price": -10
+    },
+    {
+      "abr": "drum",
+      "category": "Recreation",
+      "defname": "Drum",
+      "price": -10
+    },
+    {
+      "abr": "effigy",
+      "category": "Misc",
+      "defname": "Effigy",
+      "price": -10
+    },
+    {
+      "abr": "flophat",
+      "category": "Headgear",
+      "defname": "Apparel_Flophat",
+      "price": 74
+    },
+    {
+      "abr": "fragment",
+      "category": "Inert relics",
+      "defname": "RelicInertFragment",
+      "price": -10
+    },
+    {
+      "abr": "gibbetcage",
+      "category": "Misc",
+      "defname": "GibbetCage",
+      "price": -10
+    },
+    {
+      "abr": "headwrap",
+      "category": "Headgear",
+      "defname": "Apparel_Headwrap",
+      "price": -10
+    },
+    {
+      "abr": "hilt",
+      "category": "Inert relics",
+      "defname": "RelicInertSwordHandle",
+      "price": -10
+    },
+    {
+      "abr": "immaturedryadmeat",
       "category": "Meat",
-      "defname": "Meat_FireSlime",
-      "price": 3
-    },
-    {
-      "abr": "garin'shyperboloid",
-      "category": "Ranged weapons",
-      "defname": "Rimlaser_DeathRay",
-      "price": 8042
-    },
-    {
-      "abr": "greenplort",
-      "category": "Eggs (unfert.)",
-      "defname": "GreenPlort",
+      "defname": "Meat_Dryad_Basic",
       "price": -10
     },
     {
-      "abr": "greenplort(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "GreenPlortFertilized",
+      "abr": "incenseshrine",
+      "category": "Misc",
+      "defname": "IncenseShrine",
       "price": -10
     },
     {
-      "abr": "heavylaser",
-      "category": "Ranged weapons",
-      "defname": "Rimlaser_LaserHeavy",
-      "price": 2442
-    },
-    {
-      "abr": "incendiarylaser",
-      "category": "Ranged weapons",
-      "defname": "Rimlaser_LaserIncendiary",
+      "abr": "kneelpillow",
+      "category": "Furniture",
+      "defname": "KneelPillow",
       "price": -10
     },
     {
-      "abr": "laserminigun",
-      "category": "Ranged weapons",
-      "defname": "Rimlaser_LaserMinigun",
-      "price": 1725
-    },
-    {
-      "abr": "lasermini-turret",
-      "category": "Security",
-      "defname": "MiniTurret_Laser",
+      "abr": "kneelsheet",
+      "category": "Furniture",
+      "defname": "KneelSheet",
       "price": -10
     },
     {
-      "abr": "laserpistol",
-      "category": "Ranged weapons",
-      "defname": "Rimlaser_LaserPistol",
-      "price": 483
+      "abr": "lectern",
+      "category": "Misc",
+      "defname": "Lectern",
+      "price": -10
     },
     {
-      "abr": "laserrifle",
-      "category": "Ranged weapons",
-      "defname": "Rimlaser_LaserRifle",
-      "price": 1100
+      "abr": "lightball",
+      "category": "Misc",
+      "defname": "LightBall",
+      "price": -10
     },
     {
-      "abr": "lasersniperrifle",
-      "category": "Ranged weapons",
-      "defname": "Rimlaser_LaserSniper",
-      "price": 1500
+      "abr": "loudspeaker",
+      "category": "Misc",
+      "defname": "Loudspeaker",
+      "price": -10
     },
     {
-      "abr": "prism",
+      "abr": "morbidslab(broad)",
+      "category": "Furniture",
+      "defname": "MorbidSlab_Broad",
+      "price": -10
+    },
+    {
+      "abr": "morbidslab(medium)",
+      "category": "Furniture",
+      "defname": "MorbidSlab_Medium",
+      "price": -10
+    },
+    {
+      "abr": "neuralsupercharger",
+      "category": "Misc",
+      "defname": "NeuralSupercharger",
+      "price": 408
+    },
+    {
+      "abr": "pendant",
+      "category": "Inert relics",
+      "defname": "RelicInertPendant",
+      "price": -10
+    },
+    {
+      "abr": "pew",
+      "category": "Furniture",
+      "defname": "Pew",
+      "price": -10
+    },
+    {
+      "abr": "pyre",
+      "category": "Misc",
+      "defname": "Pyre",
+      "price": -10
+    },
+    {
+      "abr": "robe",
+      "category": "Apparel",
+      "defname": "Apparel_Robe",
+      "price": 297
+    },
+    {
+      "abr": "rusticrug(broad)",
+      "category": "Furniture",
+      "defname": "RusticRug_Broad",
+      "price": 383
+    },
+    {
+      "abr": "rusticrug(medium)",
+      "category": "Furniture",
+      "defname": "RusticRug_Medium",
+      "price": 256
+    },
+    {
+      "abr": "sacrificialflag",
+      "category": "Misc",
+      "defname": "SacrificialFlag",
+      "price": 198
+    },
+    {
+      "abr": "shadecone",
+      "category": "Headgear",
+      "defname": "Apparel_Shadecone",
+      "price": 94
+    },
+    {
+      "abr": "skull",
       "category": "Items",
-      "defname": "RimlaserPrism",
-      "price": 200
-    },
-    {
-      "abr": "puddleplort(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "PuddlePlortFertilized",
+      "defname": "Skull",
       "price": -10
     },
     {
-      "abr": "puddleslime",
-      "category": "Animals",
-      "defname": "PuddleSlime",
+      "abr": "skullspike",
+      "category": "Misc",
+      "defname": "Skullspike",
       "price": -10
     },
     {
-      "abr": "puddleslimemeat",
-      "category": "Meat",
-      "defname": "Meat_PuddleSlime",
-      "price": 3
-    },
-    {
-      "abr": "slime",
-      "category": "Animals",
-      "defname": "GreenSlime",
+      "abr": "slabbed",
+      "category": "Furniture",
+      "defname": "SlabBed",
       "price": -10
     },
     {
-      "abr": "slimemeat",
-      "category": "Meat",
-      "defname": "Meat_GreenSlime",
-      "price": 3
+      "abr": "slabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBed",
+      "price": -10
     },
     {
-      "abr": "teslagun",
-      "category": "Ranged weapons",
-      "defname": "Rimlaser_TeslaGun",
+      "abr": "slavebodystrap",
+      "category": "Apparel",
+      "defname": "Apparel_BodyStrap",
+      "price": -10
+    },
+    {
+      "abr": "slavecollar",
+      "category": "Headgear",
+      "defname": "Apparel_Collar",
+      "price": -10
+    },
+    {
+      "abr": "sleepaccelerator",
+      "category": "Misc",
+      "defname": "SleepAccelerator",
+      "price": -10
+    },
+    {
+      "abr": "slicecap",
+      "category": "Headgear",
+      "defname": "Apparel_Slicecap",
+      "price": -10
+    },
+    {
+      "abr": "spikecorefloor-star(broad)",
+      "category": "Furniture",
+      "defname": "SpikecoreFloorStar_Broad",
+      "price": -10
+    },
+    {
+      "abr": "spikecorefloor-star(medium)",
+      "category": "Furniture",
+      "defname": "SpikecoreFloorStar_Medium",
+      "price": -10
+    },
+    {
+      "abr": "standingdarklamp",
+      "category": "Furniture",
+      "defname": "Darklamp",
+      "price": -10
+    },
+    {
+      "abr": "stylingstation",
+      "category": "Furniture",
+      "defname": "StylingStation",
+      "price": -10
+    },
+    {
+      "abr": "tablet",
+      "category": "Inert relics",
+      "defname": "RelicInertTablet",
+      "price": -10
+    },
+    {
+      "abr": "tailcap",
+      "category": "Headgear",
+      "defname": "Apparel_Tailcap",
+      "price": -10
+    },
+    {
+      "abr": "terrorsculpture",
+      "category": "Art",
+      "defname": "SculptureTerror",
+      "price": -10
+    },
+    {
+      "abr": "torturecrown",
+      "category": "Headgear",
+      "defname": "Apparel_TortureCrown",
+      "price": -10
+    },
+    {
+      "abr": "totemicslab(broad)",
+      "category": "Furniture",
+      "defname": "TotemicSlab_Broad",
+      "price": -10
+    },
+    {
+      "abr": "totemicslab(medium)",
+      "category": "Furniture",
+      "defname": "TotemicSlab_Medium",
+      "price": -10
+    },
+    {
+      "abr": "visagemask",
+      "category": "Headgear",
+      "defname": "Apparel_VisageMask",
       "price": -10
     },
     {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": 3333
+      "price": -10
     }
   ],
-  "total": 630
+  "total": 664
 }
