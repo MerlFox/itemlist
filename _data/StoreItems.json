@@ -3440,7 +3440,7 @@
 	},
 	{
 		"abr": "authoritycap",
-		"price": -10,
+		"price": 92,
 		"category": "Headgear",
 		"defname": "Apparel_AuthorityCap"
 	},
@@ -3775,5 +3775,5 @@
 		"defname": "Apparel_VisageMask"
 	},
 	],
-	"total": 636
+	"total": 631
 }
