@@ -9087,38 +9087,6 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "stirfry": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": false,
-    "IsWearable": false,
-    "Mod": "VGP Vegetable Garden",
-    "KarmaType": null
-  },
-  "bowlstew": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": false,
-    "IsWearable": false,
-    "Mod": "VGP Vegetable Garden",
-    "KarmaType": null
-  },
   "SculptureTerror": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -10061,6 +10029,38 @@
     "IsEquippable": false,
     "IsWearable": false,
     "Mod": "Ideology",
+    "KarmaType": null
+  },
+  "stirfry": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": false,
+    "IsWearable": false,
+    "Mod": "VGP Vegetable Garden",
+    "KarmaType": null
+  },
+  "bowlstew": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": false,
+    "IsWearable": false,
+    "Mod": "VGP Vegetable Garden",
     "KarmaType": null
   }
 }
