@@ -43,12 +43,12 @@
 	{
 		"abr": "snowgentle",
 		"price": 350,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "snowhard",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "fog",
@@ -58,7 +58,7 @@
 	{
 		"abr": "heatwave",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "flashstorm",
@@ -68,7 +68,7 @@
 	{
 		"abr": "coldsnap",
 		"price": 800,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "solarflare",
@@ -79,11 +79,6 @@
 		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
@@ -104,6 +99,11 @@
 		"abr": "blight",
 		"price": 1000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "animaltame",
+		"price": 150,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -231,6 +231,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "infestation",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -348,7 +353,7 @@
 	{
 		"abr": "backpack",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "settraits",
@@ -368,7 +373,7 @@
 	{
 		"abr": "wear",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "equip",
@@ -391,5 +396,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 78
+	"total": 79
 }
