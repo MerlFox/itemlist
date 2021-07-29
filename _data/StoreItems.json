@@ -868,7 +868,7 @@
       "abr": "yakbeef",
       "category": "Meat",
       "defname": "Meat_Yak",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "horsemeat",
@@ -916,19 +916,19 @@
       "abr": "pork",
       "category": "Meat",
       "defname": "Meat_Pig",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "chickenmeat",
       "category": "Meat",
       "defname": "Meat_Chicken",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "turkeymeat",
       "category": "Meat",
       "defname": "Meat_Turkey",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "birdmeat",
@@ -2536,7 +2536,7 @@
       "abr": "tortoise",
       "category": "Animals",
       "defname": "Tortoise",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "cobra",
@@ -2734,7 +2734,7 @@
       "abr": "bowlofstew",
       "category": "Meals",
       "defname": "bowlstew",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "brazier",
@@ -2990,7 +2990,7 @@
     },
     {
       "abr": "hardtack",
-      "category": "Meals",
+      "category": "Foods",
       "defname": "VG_Hardtack",
       "price": 2
     },
@@ -3322,7 +3322,7 @@
       "abr": "smallnatureshrine",
       "category": "Misc",
       "defname": "NatureShrine_Small",
-      "price": 592
+      "price": -10
     },
     {
       "abr": "snowbeet",
@@ -3688,13 +3688,13 @@
       "abr": "slavebodystrap",
       "category": "Apparel",
       "defname": "Apparel_BodyStrap",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "slavecollar",
       "category": "Headgear",
       "defname": "Apparel_Collar",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "sleepaccelerator",
@@ -3922,12 +3922,6 @@
       "abr": "martialartstarget",
       "category": "Recreation",
       "defname": "MartialArtsTarget",
-      "price": 251
-    },
-    {
-      "abr": "mediumaltar",
-      "category": "Misc",
-      "defname": "Altar_Medium",
       "price": -10
     },
     {
@@ -3964,13 +3958,7 @@
       "abr": "simpleshower",
       "category": "Hygiene",
       "defname": "ShowerSimple",
-      "price": 52
-    },
-    {
-      "abr": "smallaltar",
-      "category": "Misc",
-      "defname": "Altar_Small",
-      "price": 197
+      "price": -10
     },
     {
       "abr": "smarttoilet",
@@ -4000,19 +3988,31 @@
       "abr": "washingmachine",
       "category": "Hygiene",
       "defname": "WashingMachine",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "waterbutt",
       "category": "Hygiene",
       "defname": "WaterButt",
-      "price": 89
+      "price": -10
     },
     {
       "abr": "watertub",
       "category": "Hygiene",
       "defname": "WashBucket",
-      "price": 52
+      "price": -10
+    },
+    {
+      "abr": "mediumaltar",
+      "category": "Misc",
+      "defname": "Altar_Medium",
+      "price": -10
+    },
+    {
+      "abr": "smallaltar",
+      "category": "Misc",
+      "defname": "Altar_Small",
+      "price": -10
     },
     {
       "abr": "zombrella",

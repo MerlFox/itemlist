@@ -102,12 +102,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Abe Vriens",
-    "name": "Colonists' Deco",
-    "steamId": "2181788064",
-    "version": "0.1.0"
-  },
-  {
     "author": "Ogre",
     "name": "OgreStack",
     "steamId": "1447140290",
@@ -174,12 +168,6 @@
     "version": null
   },
   {
-    "author": "mr.teterew",
-    "name": "Real Ruins",
-    "steamId": "1552146295",
-    "version": "2.2.0.0"
-  },
-  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -211,9 +199,15 @@
   },
   {
     "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "SirRandoo",
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
-    "version": "6.1.2.1"
+    "version": "6.1.2.2"
   },
   {
     "author": "Dubwise",
