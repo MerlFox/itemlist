@@ -5062,7 +5062,7 @@
       "name": "herculean",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -5102,7 +5102,7 @@
       "name": "achillean",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -5140,7 +5140,7 @@
       "name": "odyssean",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -5180,7 +5180,7 @@
       "name": "ares'wrath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -5226,7 +5226,7 @@
       "name": "artemis'blessing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -5266,7 +5266,7 @@
       "name": "aphrodite'sgrace",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -5308,7 +5308,7 @@
       "name": "mercury'sblessing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -5354,7 +5354,7 @@
       "name": "sylvanus'blessing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -5398,7 +5398,7 @@
       "name": "vulcan'sfire",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -5440,7 +5440,7 @@
       "name": "imhotep'swisdom",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35000,
+      "addPrice": 100000,
       "removePrice": 5500,
       "degree": 0
     },
