@@ -1021,30 +1021,6 @@
 		"defname": "PokerTable"
 	},
 	{
-		"abr": "kyulen",
-		"price": 5000,
-		"category": "Animals",
-		"defname": "Ninetailfoxwt"
-	},
-	{
-		"abr": "kyulen",
-		"price": 5000,
-		"category": "Animals",
-		"defname": "Ninetailfox"
-	},
-	{
-		"abr": "kyulenbead",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "Foxbead"
-	},
-	{
-		"abr": "kyulentail",
-		"price": -10,
-		"category": "Items",
-		"defname": "NinetailfoxTail"
-	},
-	{
 		"abr": "billiardstable",
 		"price": 600,
 		"category": "Furniture",
@@ -3127,12 +3103,6 @@
 		"defname": "EggBox"
 	},
 	{
-		"abr": "kyulenbed",
-		"price": 1933,
-		"category": "Furniture",
-		"defname": "NinetailAnimalBed"
-	},
-	{
 		"abr": "neutroamine",
 		"price": 10,
 		"category": "Manufactured",
@@ -3812,7 +3782,7 @@
 	},
 	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": -10,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -3971,6 +3941,42 @@
 		"price": 52,
 		"category": "Hygiene",
 		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "smallaltar",
+		"price": 197,
+		"category": "Misc",
+		"defname": "Altar_Small"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "kyulen",
+		"price": 12500,
+		"category": "Animals",
+		"defname": "Ninetailfox"
+	},
+	{
+		"abr": "kyulen",
+		"price": 12500,
+		"category": "Animals",
+		"defname": "Ninetailfoxwt"
+	},
+	{
+		"abr": "kyulenbead",
+		"price": 1500,
+		"category": "Artifacts",
+		"defname": "Foxbead"
 	},
 	],
 	"total": 670
