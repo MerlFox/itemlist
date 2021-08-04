@@ -161,11 +161,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -342,7 +337,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 6000,
 		"karmatype": "Good"
 	},
 	{
@@ -396,5 +391,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 79
+	"total": 78
 }

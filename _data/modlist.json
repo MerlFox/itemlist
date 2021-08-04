@@ -12,6 +12,12 @@
     "version": "9.0.0"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
+  },
+  {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight",
     "steamId": null,
@@ -138,12 +144,6 @@
     "version": null
   },
   {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] Consolidated Traits",
-    "steamId": "1507384362",
-    "version": "1.0.7865.41688"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -192,12 +192,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.2.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
@@ -207,13 +201,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
-    "version": "6.1.2.2"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.9.2070"
+    "version": "6.1.3.0-rc1"
   },
   {
     "author": "jorrn",
@@ -232,5 +220,11 @@
     "name": "Additional Traits (Heroes + Gods Optional)",
     "steamId": "1621571024",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.2"
   }
 ]
