@@ -742,8 +742,8 @@
       },
       "defName": "Nimble",
       "name": "deftlydodger",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 2
@@ -3703,6 +3703,66 @@
       "degree": 0
     },
     {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
       "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
       "stats": [
 
@@ -3954,8 +4014,8 @@
       },
       "defName": "Undead",
       "name": "undead",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -5350,8 +5410,8 @@
       },
       "defName": "Necromancer",
       "name": "necromancer",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -5516,8 +5576,8 @@
       },
       "defName": "Lich",
       "name": "lich",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -11005,66 +11065,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
-    },
-    {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
     }
   ],
   "races": [
