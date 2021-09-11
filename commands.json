@@ -307,23 +307,6 @@
   },
   {
     "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
       "isShortcut": true,
       "isBuy": false,
       "isBalance": false,
@@ -331,7 +314,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Revive all",
@@ -348,7 +331,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Revive me",
@@ -365,7 +348,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Heal me",
@@ -382,7 +365,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Healall",
@@ -399,7 +382,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
@@ -416,7 +399,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Purchases the part specified and queues it for surgery on your pawn.",
     "name": "Surgery",
@@ -433,7 +416,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Add trait",
@@ -450,7 +433,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Remove trait",
@@ -467,7 +450,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Revive any pawn",
@@ -484,7 +467,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Heal any pawn",
@@ -501,7 +484,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
@@ -518,7 +501,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "It's like buy item, but it gets added to your inventory if possible.",
     "name": "Backpack",
@@ -535,7 +518,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Downgrades a skill's passion... sometimes.",
     "name": "Remove passion",
@@ -552,7 +535,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Upgrades a skill's passion... sometimes.",
     "name": "Add passion",
@@ -569,7 +552,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Full heal",
@@ -586,7 +569,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Rescue me",
@@ -603,7 +586,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Viewer kill count",
@@ -620,7 +603,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Shows your current stats within a given category.",
     "name": "Viewer stats",
@@ -637,7 +620,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
     "name": "Viewer health",
@@ -654,7 +637,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Viewer needs",
@@ -671,7 +654,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Shows an overview of your pawn's gear.",
     "name": "Viewer gear",
@@ -688,7 +671,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Viewer body",
@@ -705,7 +688,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Shows your pawn's work priorities.",
     "name": "Viewer work",
@@ -722,7 +705,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Viewer story",
@@ -739,7 +722,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Viewer skills",
@@ -756,7 +739,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Fix viewer pawn",
@@ -773,7 +756,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Fix all pawns",
@@ -790,7 +773,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Makes your pawn leave the colony.",
     "name": "Abandon pawn",
@@ -807,7 +790,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Shows your pawn's relationships to other viewers.",
     "name": "Viewer relations",
@@ -824,7 +807,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Factions",
@@ -841,7 +824,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
     "name": "Research",
@@ -858,7 +841,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Shows the first few results for the query in the given category. Valid categories are: 'pawns', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
     "name": "Lookup",
@@ -875,7 +858,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
     "name": "Price check",
@@ -892,7 +875,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Unstick",
@@ -909,7 +892,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Toggle store",
@@ -926,7 +909,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
     "name": "Insult",
@@ -943,7 +926,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Colony wealth",
@@ -960,7 +943,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Colonist count",
@@ -977,7 +960,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": "Provides some information about supported things. Supported categories are: 'weapons'",
     "name": "Database",
@@ -994,7 +977,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
+      "mod": "ToolkitUtils - Testing"
     },
     "description": null,
     "name": "Unstick me",

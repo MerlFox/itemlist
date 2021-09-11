@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "transportpodcrash",
+		"price": 600,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -153,6 +158,11 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -281,16 +291,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "torytalkervote",
-		"price": 750,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -342,7 +342,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 6000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -373,12 +373,12 @@
 	{
 		"abr": "wear",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "equip",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomchildhood",
