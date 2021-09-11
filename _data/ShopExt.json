@@ -2197,6 +2197,66 @@
       "degree": 2
     },
     {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
       "description": "Timmy is a very mysterious nine tail fox.",
       "stats": [
         "+2.0 beauty"
@@ -3320,7 +3380,7 @@
       "name": "herculean",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -3360,7 +3420,7 @@
       "name": "achillean",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -3398,7 +3458,7 @@
       "name": "odyssean",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -3438,7 +3498,7 @@
       "name": "ares'wrath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -3484,7 +3544,7 @@
       "name": "artemis'blessing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -3524,7 +3584,7 @@
       "name": "aphrodite'sgrace",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -3566,7 +3626,7 @@
       "name": "mercury'sblessing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -3612,7 +3672,7 @@
       "name": "sylvanus'blessing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -3656,7 +3716,7 @@
       "name": "vulcan'sfire",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
     },
@@ -3698,69 +3758,9 @@
       "name": "imhotep'swisdom",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100000,
+      "addPrice": 10000,
       "removePrice": 5500,
       "degree": 0
-    },
-    {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
     },
     {
       "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
@@ -5417,7 +5417,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has transformed into a lich, forsaking life in exchange for an power and an immortal existence, choosing to employ undead for menial tasks.",
+      "description": "Timmy has transformed into a lich, forsaking life in exchange for an power and an immortal existence. he disdains menial taks, choosing to employ undead for trivial matters.",
       "stats": [
         "Confused wandering mental state disabled.",
         "Panic fleeing mental state disabled.",
@@ -11060,6 +11060,142 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "supersoldier",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Golemancers prefer to weave their magic through powerful runes and sigils that are able to transfer purpose into an object. Timmy is no exception; he can create runes that enhance basic mechanics, alter chemicals in biological matter, and animate mundae material into life-like, monstrous creatures. Golemancer's are most effective when channeling their magic through symbols and find it more difficult to convert mana to energy directly but are also have higher arcane resistances. Most golemancer's tend to find rocks more interesting than people and have little concern for cleanliness.",
+      "stats": [
+        "+0.5 filth rate",
+        "-20.00% social impact",
+        "-20.00% negotiation ability",
+        "-0.20 move speed",
+        "+10% global work speed",
+        "+20% smelting speed",
+        "+20% construction speed"
+      ],
+      "conflicts": [
+        "firemage",
+        "icemage",
+        "lightningmage",
+        "arcanemage",
+        "magicallygifted",
+        "physicallyadept",
+        "paladin",
+        "gladiator",
+        "sharpshooter",
+        "sniper",
+        "mastersniper",
+        "legendarysniper",
+        "summoner",
+        "druid",
+        "bladesman",
+        "blademaster",
+        "bladedancer",
+        "legendarybladedancer",
+        "necromancer",
+        "priest",
+        "woodsman",
+        "hunter",
+        "scout",
+        "ranger",
+        "lich",
+        "entertainer",
+        "performer",
+        "minstrel",
+        "bard",
+        "faceless",
+        "succubus",
+        "warlock",
+        "psionic",
+        "geomancer",
+        "technomancer",
+        "bloodmage",
+        "deathknight",
+        "enchanter",
+        "monk",
+        "wanderer",
+        "wayfarer",
+        "chronomancer",
+        "supersoldier",
+        "commander",
+        "chaosmage",
+        "shadow",
+        "brightmage",
+        "shaman"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "A RimWorld of Magic",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "firemage",
+          "icemage",
+          "lightningmage",
+          "arcanemage",
+          "magicallygifted",
+          "physicallyadept",
+          "paladin",
+          "gladiator",
+          "sharpshooter",
+          "sniper",
+          "mastersniper",
+          "legendarysniper",
+          "summoner",
+          "druid",
+          "bladesman",
+          "blademaster",
+          "bladedancer",
+          "legendarybladedancer",
+          "necromancer",
+          "priest",
+          "woodsman",
+          "hunter",
+          "scout",
+          "ranger",
+          "lich",
+          "entertainer",
+          "performer",
+          "minstrel",
+          "bard",
+          "faceless",
+          "succubus",
+          "warlock",
+          "psionic",
+          "geomancer",
+          "technomancer",
+          "bloodmage",
+          "deathknight",
+          "enchanter",
+          "monk",
+          "wanderer",
+          "wayfarer",
+          "chronomancer",
+          "supersoldier",
+          "commander",
+          "chaosmage",
+          "shadow",
+          "brightmage",
+          "shaman"
+        ],
+        "stats": [
+          "+0.5 filth rate",
+          "-20.00% social impact",
+          "-20.00% negotiation ability",
+          "-0.20 move speed",
+          "+10% global work speed",
+          "+20% smelting speed",
+          "+20% construction speed"
+        ]
+      },
+      "defName": "TM_Golemancer",
+      "name": "golemancer",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
