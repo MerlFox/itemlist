@@ -244,7 +244,7 @@
       "abr": "hospitalbed",
       "category": "Furniture",
       "defname": "HospitalBed",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "bedroll",
@@ -262,7 +262,7 @@
       "abr": "animalsleepingbox",
       "category": "Furniture",
       "defname": "AnimalSleepingBox",
-      "price": 84
+      "price": -10
     },
     {
       "abr": "animalbed",
@@ -280,7 +280,7 @@
       "abr": "diningchair",
       "category": "Furniture",
       "defname": "DiningChair",
-      "price": 198
+      "price": -10
     },
     {
       "abr": "armchair",
@@ -322,7 +322,7 @@
       "abr": "plantpot",
       "category": "Furniture",
       "defname": "PlantPot",
-      "price": 68
+      "price": -10
     },
     {
       "abr": "standinglamp",
@@ -1048,7 +1048,7 @@
       "abr": "telescope",
       "category": "Recreation",
       "defname": "Telescope",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "orbitaltradebeacon",
@@ -1234,7 +1234,7 @@
       "abr": "mini-turret",
       "category": "Security",
       "defname": "Turret_MiniTurret",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "mortar",
@@ -1306,7 +1306,7 @@
       "abr": "thrumbohorn",
       "category": "Items",
       "defname": "ThrumboHorn",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "elephanttusk",
@@ -2446,7 +2446,7 @@
       "abr": "alphabeaver",
       "category": "Animals",
       "defname": "Alphabeaver",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "capybara",
@@ -2632,7 +2632,7 @@
       "abr": "animusstone",
       "category": "Misc",
       "defname": "AnimusStone",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "armorskingland",
@@ -2902,7 +2902,7 @@
       "abr": "mindscrew",
       "category": "Prosthetic",
       "defname": "Mindscrew",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "monosword",
@@ -2932,7 +2932,7 @@
       "abr": "eggbox",
       "category": "Misc",
       "defname": "EggBox",
-      "price": 79
+      "price": -10
     },
     {
       "abr": "neutroamine",
@@ -3202,7 +3202,7 @@
       "abr": "burnbong",
       "category": "Misc",
       "defname": "Burnbong",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "cannibalplatter",
@@ -3238,7 +3238,7 @@
       "abr": "effigy",
       "category": "Misc",
       "defname": "Effigy",
-      "price": 178
+      "price": -10
     },
     {
       "abr": "flophat",
@@ -3697,12 +3697,6 @@
       "price": 2750
     },
     {
-      "abr": "auroracore",
-      "category": "Misc",
-      "defname": "EccentricAuroraCore",
-      "price": -10
-    },
-    {
       "abr": "bamboo",
       "category": "Raw resources",
       "defname": "Bamboo",
@@ -3799,34 +3793,10 @@
       "price": 3767
     },
     {
-      "abr": "bullhorn",
-      "category": "Bionic",
-      "defname": "EccentricHornBull",
-      "price": 517
-    },
-    {
-      "abr": "bulltail",
-      "category": "Bionic",
-      "defname": "EccentricTailBull",
-      "price": 442
-    },
-    {
       "abr": "cactusfruit",
       "category": "Vegetarian",
       "defname": "RawCactusFruit",
       "price": 2
-    },
-    {
-      "abr": "catear",
-      "category": "Bionic",
-      "defname": "EccentricEarCat",
-      "price": 525
-    },
-    {
-      "abr": "cattail",
-      "category": "Bionic",
-      "defname": "EccentricTailCat",
-      "price": 442
     },
     {
       "abr": "cherries",
@@ -4228,19 +4198,7 @@
       "abr": "foodshelf2x2",
       "category": "Furniture",
       "defname": "VG_FoodShelf",
-      "price": 333
-    },
-    {
-      "abr": "foxear",
-      "category": "Bionic",
-      "defname": "EccentricEarFox",
-      "price": 525
-    },
-    {
-      "abr": "foxtail",
-      "category": "Bionic",
-      "defname": "EccentricTailFox",
-      "price": 442
+      "price": -10
     },
     {
       "abr": "fruitdrink",
@@ -4315,12 +4273,6 @@
       "price": 975
     },
     {
-      "abr": "high-densityhex-cell",
-      "category": "Manufactured",
-      "defname": "Eccentric_HexCell",
-      "price": -10
-    },
-    {
       "abr": "hivepiece",
       "category": "Raw resources",
       "defname": "VG_Hivepiece",
@@ -4351,18 +4303,6 @@
       "price": 1008
     },
     {
-      "abr": "horseear",
-      "category": "Bionic",
-      "defname": "EccentricEarHorse",
-      "price": 525
-    },
-    {
-      "abr": "horsetail",
-      "category": "Bionic",
-      "defname": "EccentricTailHorse",
-      "price": 442
-    },
-    {
       "abr": "icespell:blizzard",
       "category": "Scrolls",
       "defname": "SpellOf_Blizzard",
@@ -4379,48 +4319,6 @@
       "category": "Raw resources",
       "defname": "VG_IronWoodLog",
       "price": -10
-    },
-    {
-      "abr": "kyulen",
-      "category": "Animals",
-      "defname": "Ninetailfox",
-      "price": -10
-    },
-    {
-      "abr": "kyulen",
-      "category": "Animals",
-      "defname": "Ninetailfoxwt",
-      "price": -10
-    },
-    {
-      "abr": "kyulenbead",
-      "category": "Artifacts",
-      "defname": "Foxbead",
-      "price": -10
-    },
-    {
-      "abr": "kyulenbed",
-      "category": "Furniture",
-      "defname": "NinetailAnimalBed",
-      "price": 1933
-    },
-    {
-      "abr": "kyulentail",
-      "category": "Items",
-      "defname": "NinetailfoxTail",
-      "price": -10
-    },
-    {
-      "abr": "labradordogear",
-      "category": "Bionic",
-      "defname": "EccentricEarLabrador",
-      "price": 525
-    },
-    {
-      "abr": "labradordogtail",
-      "category": "Bionic",
-      "defname": "EccentricTailLabrador",
-      "price": 442
     },
     {
       "abr": "lightningspell:chargebattery",
@@ -4585,18 +4483,6 @@
       "price": 1267
     },
     {
-      "abr": "mainecooncattail",
-      "category": "Bionic",
-      "defname": "EccentricTailMaineCoon",
-      "price": 442
-    },
-    {
-      "abr": "mainecoonear",
-      "category": "Bionic",
-      "defname": "EccentricEarMaineCoon",
-      "price": 525
-    },
-    {
       "abr": "majorarcanegemofacceleration",
       "category": "Refined magicyte",
       "defname": "TM_EStone_coolDown_major",
@@ -4729,18 +4615,6 @@
       "price": -10
     },
     {
-      "abr": "mouseear",
-      "category": "Bionic",
-      "defname": "EccentricEarMouse",
-      "price": 525
-    },
-    {
-      "abr": "mousetail",
-      "category": "Bionic",
-      "defname": "EccentricTailMouse",
-      "price": 442
-    },
-    {
       "abr": "mushroom",
       "category": "Meat",
       "defname": "Rawmushroom",
@@ -4759,34 +4633,10 @@
       "price": -10
     },
     {
-      "abr": "nanoassembler",
-      "category": "Production",
-      "defname": "EccentricNanoassembler",
-      "price": -10
-    },
-    {
-      "abr": "nanofabricator",
-      "category": "Production",
-      "defname": "EccentricNanofabricator",
-      "price": -10
-    },
-    {
-      "abr": "nanoweave",
-      "category": "Textiles",
-      "defname": "Eccentric_Nanoweave",
-      "price": -10
-    },
-    {
       "abr": "olive",
       "category": "Vegetarian",
       "defname": "RawOlive",
       "price": 2
-    },
-    {
-      "abr": "onihorn",
-      "category": "Bionic",
-      "defname": "EccentricHornOni",
-      "price": 517
     },
     {
       "abr": "orange",
@@ -4859,24 +4709,6 @@
       "category": "Scrolls",
       "defname": "SpellOf_Resurrection",
       "price": 6250
-    },
-    {
-      "abr": "rabbitear",
-      "category": "Bionic",
-      "defname": "EccentricEarRabbit",
-      "price": 525
-    },
-    {
-      "abr": "rabbittail",
-      "category": "Bionic",
-      "defname": "EccentricTailRabbit",
-      "price": 442
-    },
-    {
-      "abr": "ramhorn",
-      "category": "Bionic",
-      "defname": "EccentricHornRam",
-      "price": 517
     },
     {
       "abr": "redlentil",
@@ -4963,34 +4795,10 @@
       "price": 1167
     },
     {
-      "abr": "shepherddogear",
-      "category": "Bionic",
-      "defname": "EccentricEarShepherd",
-      "price": 525
-    },
-    {
-      "abr": "shepherddogtail",
-      "category": "Bionic",
-      "defname": "EccentricTailShepherd",
-      "price": 442
-    },
-    {
       "abr": "shootingtarget",
       "category": "Recreation",
       "defname": "ShootingRangeTarget",
       "price": -10
-    },
-    {
-      "abr": "siamesecatear",
-      "category": "Bionic",
-      "defname": "EccentricEarSiamese",
-      "price": 525
-    },
-    {
-      "abr": "siamesecattail",
-      "category": "Bionic",
-      "defname": "EccentricTailSiamese",
-      "price": 442
     },
     {
       "abr": "silage",
@@ -5131,18 +4939,6 @@
       "price": 667
     },
     {
-      "abr": "terrierdogear",
-      "category": "Bionic",
-      "defname": "EccentricEarTerrier",
-      "price": 525
-    },
-    {
-      "abr": "terrierdogtail",
-      "category": "Bionic",
-      "defname": "EccentricTailTerrier",
-      "price": 442
-    },
-    {
       "abr": "thrumbow",
       "category": "Ranged",
       "defname": "TM_ThrumBow",
@@ -5153,12 +4949,6 @@
       "category": "Melee",
       "defname": "TM_ThrumboAxe",
       "price": 7750
-    },
-    {
-      "abr": "thrumbohorn",
-      "category": "Bionic",
-      "defname": "EccentricHornThrumbo",
-      "price": 517
     },
     {
       "abr": "thrumbosaber",
@@ -5293,42 +5083,6 @@
       "price": -10
     },
     {
-      "abr": "beartail",
-      "category": "Bionic",
-      "defname": "EccentricTailBear",
-      "price": 442
-    },
-    {
-      "abr": "blackbearear",
-      "category": "Bionic",
-      "defname": "EccentricEarBlackBear",
-      "price": 525
-    },
-    {
-      "abr": "brownbearear",
-      "category": "Bionic",
-      "defname": "EccentricEarBrownBear",
-      "price": 525
-    },
-    {
-      "abr": "greathornedowltuft",
-      "category": "Bionic",
-      "defname": "EccentricHornGreatHornedOwl",
-      "price": 517
-    },
-    {
-      "abr": "owltail",
-      "category": "Bionic",
-      "defname": "EccentricTailOwl",
-      "price": 442
-    },
-    {
-      "abr": "unicornhorn",
-      "category": "Bionic",
-      "defname": "EccentricHornUnicorn",
-      "price": 517
-    },
-    {
       "abr": "unrefinedmagicyte",
       "category": "Refined magicyte",
       "defname": "RawMagicyte",
@@ -5383,21 +5137,507 @@
       "price": 392
     },
     {
-      "abr": "wolfear",
-      "category": "Bionic",
-      "defname": "EccentricEarWolf",
-      "price": 525
-    },
-    {
-      "abr": "wolftail",
-      "category": "Bionic",
-      "defname": "EccentricTailWolf",
-      "price": 442
-    },
-    {
       "abr": "wolfmeat",
       "category": "Meat",
       "defname": "Meat_TM_Dire_WolfR",
+      "price": -10
+    },
+    {
+      "abr": "impleather",
+      "category": "Leathers",
+      "defname": "Leather_Imp",
+      "price": -10
+    },
+    {
+      "abr": "bioniccattail",
+      "category": "Bionic",
+      "defname": "Nr_BioCatTail",
+      "price": 1717
+    },
+    {
+      "abr": "blackharpy",
+      "category": "Animals",
+      "defname": "BlackHarpy",
+      "price": -10
+    },
+    {
+      "abr": "blackharpyegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggBlackHarpyFertilized",
+      "price": -10
+    },
+    {
+      "abr": "blackharpyegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "EggBlackHarpyUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "blackharpyfeathers",
+      "category": "Wools",
+      "defname": "BlackHarpyFeathers",
+      "price": -10
+    },
+    {
+      "abr": "blackharpyleather",
+      "category": "Leathers",
+      "defname": "Leather_BlackHarpy",
+      "price": -10
+    },
+    {
+      "abr": "blackharpymeat",
+      "category": "Meat",
+      "defname": "Meat_BlackHarpy",
+      "price": -10
+    },
+    {
+      "abr": "cathoodie",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatHoodie",
+      "price": 181
+    },
+    {
+      "abr": "centaur",
+      "category": "Animals",
+      "defname": "Centaur",
+      "price": -10
+    },
+    {
+      "abr": "centaurhair",
+      "category": "Wools",
+      "defname": "HairCentaur",
+      "price": -10
+    },
+    {
+      "abr": "centaurleather",
+      "category": "Leathers",
+      "defname": "Leather_Centaur",
+      "price": -10
+    },
+    {
+      "abr": "centaurmeat",
+      "category": "Meat",
+      "defname": "Meat_Centaur",
+      "price": -10
+    },
+    {
+      "abr": "centaurmilk",
+      "category": "Animal products",
+      "defname": "CentaurMilk",
+      "price": -10
+    },
+    {
+      "abr": "chatoyansniperrifle",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_ChRifle",
+      "price": 1783
+    },
+    {
+      "abr": "clawbar",
+      "category": "Melee weapons",
+      "defname": "Nr_Clawbar",
+      "price": 183
+    },
+    {
+      "abr": "cowgirl",
+      "category": "Animals",
+      "defname": "Cowgirl",
+      "price": -10
+    },
+    {
+      "abr": "cowgirlhide",
+      "category": "Leathers",
+      "defname": "Leather_Cowgirl",
+      "price": -10
+    },
+    {
+      "abr": "cowgirlmeat",
+      "category": "Meat",
+      "defname": "Meat_Cowgirl",
+      "price": -10
+    },
+    {
+      "abr": "cowgirlmilk",
+      "category": "Animal products",
+      "defname": "CowgirlMilk",
+      "price": -10
+    },
+    {
+      "abr": "cribitepistol",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_CriPistol",
+      "price": 367
+    },
+    {
+      "abr": "dragonmeat",
+      "category": "Meat",
+      "defname": "Meat_Dragongirl",
+      "price": -10
+    },
+    {
+      "abr": "dragongirlscales",
+      "category": "Wools",
+      "defname": "DragongirlScales",
+      "price": -10
+    },
+    {
+      "abr": "dragonoid",
+      "category": "Animals",
+      "defname": "Dragongirl",
+      "price": -10
+    },
+    {
+      "abr": "dragonoidmilk",
+      "category": "Animal products",
+      "defname": "DragonMilk",
+      "price": -10
+    },
+    {
+      "abr": "dragonskin",
+      "category": "Leathers",
+      "defname": "Leather_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "dryad",
+      "category": "Animals",
+      "defname": "Dryad",
+      "price": -10
+    },
+    {
+      "abr": "dryadhair",
+      "category": "Wools",
+      "defname": "HairDryad",
+      "price": -10
+    },
+    {
+      "abr": "dryadleather",
+      "category": "Leathers",
+      "defname": "Leather_Dryad",
+      "price": -10
+    },
+    {
+      "abr": "dryadmeat",
+      "category": "Meat",
+      "defname": "Meat_Dryad",
+      "price": -10
+    },
+    {
+      "abr": "dryadmilk",
+      "category": "Animal products",
+      "defname": "DryadMilk",
+      "price": -10
+    },
+    {
+      "abr": "fairydust",
+      "category": "Drugs",
+      "defname": "FairyDust",
+      "price": -10
+    },
+    {
+      "abr": "fairymeat",
+      "category": "Meat",
+      "defname": "Meat_FairyForest",
+      "price": -10
+    },
+    {
+      "abr": "fairymeat",
+      "category": "Meat",
+      "defname": "Meat_FairyIce",
+      "price": -10
+    },
+    {
+      "abr": "fairyskin",
+      "category": "Leathers",
+      "defname": "Leather_FairyForest",
+      "price": -10
+    },
+    {
+      "abr": "ferian",
+      "category": "Animal",
+      "defname": "AFerian",
+      "price": -10
+    },
+    {
+      "abr": "forestfairy",
+      "category": "Animals",
+      "defname": "FairyForest",
+      "price": -10
+    },
+    {
+      "abr": "foxgirl",
+      "category": "Animals",
+      "defname": "Foxgirl",
+      "price": -10
+    },
+    {
+      "abr": "foxgirlleather",
+      "category": "Leathers",
+      "defname": "Leather_Foxgirl",
+      "price": -10
+    },
+    {
+      "abr": "foxgirlmeat",
+      "category": "Meat",
+      "defname": "Meat_Foxgirl",
+      "price": -10
+    },
+    {
+      "abr": "foxgirlmilk",
+      "category": "Animal products",
+      "defname": "FoxgirlMilk",
+      "price": -10
+    },
+    {
+      "abr": "harpy",
+      "category": "Animals",
+      "defname": "Harpy",
+      "price": -10
+    },
+    {
+      "abr": "harpyegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggHarpyFertilized",
+      "price": -10
+    },
+    {
+      "abr": "harpyegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "EggHarpyUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "harpyfeathers",
+      "category": "Wools",
+      "defname": "HarpyFeathers",
+      "price": -10
+    },
+    {
+      "abr": "harpyleather",
+      "category": "Leathers",
+      "defname": "Leather_Harpy",
+      "price": -10
+    },
+    {
+      "abr": "harpymeat",
+      "category": "Meat",
+      "defname": "Meat_Harpy",
+      "price": -10
+    },
+    {
+      "abr": "housekeepercat",
+      "category": "Animals",
+      "defname": "HousekeeperCat",
+      "price": 2500
+    },
+    {
+      "abr": "housekeepercatfur",
+      "category": "Leathers",
+      "defname": "Leather_HKCat",
+      "price": 23
+    },
+    {
+      "abr": "housekeepercatwool",
+      "category": "Wools",
+      "defname": "Wool_HKCat",
+      "price": 12
+    },
+    {
+      "abr": "icefairy",
+      "category": "Animals",
+      "defname": "FairyIce",
+      "price": -10
+    },
+    {
+      "abr": "icefairyskin",
+      "category": "Leathers",
+      "defname": "Leather_FairyIce",
+      "price": -10
+    },
+    {
+      "abr": "impmeat",
+      "category": "Meat",
+      "defname": "Meat_Impmother",
+      "price": -10
+    },
+    {
+      "abr": "impmother",
+      "category": "Animals",
+      "defname": "Impmother",
+      "price": -10
+    },
+    {
+      "abr": "impmothermilk",
+      "category": "Animal products",
+      "defname": "ImpmotherMilk",
+      "price": -10
+    },
+    {
+      "abr": "karambit",
+      "category": "Melee weapons",
+      "defname": "Nr_Karambit",
+      "price": -10
+    },
+    {
+      "abr": "machairodus",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_FlakCaster",
+      "price": 7000
+    },
+    {
+      "abr": "minifoldpdw",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_MfoldPdw",
+      "price": 625
+    },
+    {
+      "abr": "minisword",
+      "category": "Special melee weapons",
+      "defname": "Nr_MiniSword",
+      "price": -10
+    },
+    {
+      "abr": "n.p.crifle",
+      "category": "Nyaron ranged weapons",
+      "defname": "Nr_NpcRifle",
+      "price": 1483
+    },
+    {
+      "abr": "nyaron",
+      "category": "Animal",
+      "defname": "Alien_Nyaron",
+      "price": -10
+    },
+    {
+      "abr": "nyaroncombatjacket",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatJacket",
+      "price": 933
+    },
+    {
+      "abr": "nyaronleather",
+      "category": "Leathers",
+      "defname": "Leather_Nyaron",
+      "price": -10
+    },
+    {
+      "abr": "nyaronmaidcostume",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatMaid",
+      "price": 322
+    },
+    {
+      "abr": "nyaronmaidhairband",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_CatMaidBand",
+      "price": 93
+    },
+    {
+      "abr": "nyaronmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Nyaron",
+      "price": -10
+    },
+    {
+      "abr": "nyaronpowerarmor",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_PowerArmor",
+      "price": 2633
+    },
+    {
+      "abr": "nyaronpowerarmorhelmet",
+      "category": "Headgear",
+      "defname": "Nr_PowerArmorHelmet",
+      "price": 1217
+    },
+    {
+      "abr": "nyaronsimpleuniform",
+      "category": "Nyaron Apparels",
+      "defname": "Nr_SUniform",
+      "price": 34
+    },
+    {
+      "abr": "nyaronstalkbow",
+      "category": "Ranged weapons",
+      "defname": "Nr_Stkbow",
+      "price": 2667
+    },
+    {
+      "abr": "plasmsword",
+      "category": "Special melee weapons",
+      "defname": "Nr_PlasmSword",
+      "price": -10
+    },
+    {
+      "abr": "redgoo",
+      "category": "Medicine",
+      "defname": "GooSlimeRed",
+      "price": -10
+    },
+    {
+      "abr": "series-epcontainer",
+      "category": "Nyaron stuffs",
+      "defname": "Nr_EPC",
+      "price": 1000
+    },
+    {
+      "abr": "slime",
+      "category": "Animals",
+      "defname": "Slime",
+      "price": -10
+    },
+    {
+      "abr": "slimegoo",
+      "category": "Meat",
+      "defname": "Meat_Slime",
+      "price": -10
+    },
+    {
+      "abr": "slimemembrane",
+      "category": "Leathers",
+      "defname": "Leather_Slime",
+      "price": -10
+    },
+    {
+      "abr": "thrumbogirlmilk",
+      "category": "Animal products",
+      "defname": "ThrumbogirlMilk",
+      "price": -10
+    },
+    {
+      "abr": "thrumbomorph",
+      "category": "Animals",
+      "defname": "Thrumbomorph",
+      "price": -10
+    },
+    {
+      "abr": "thrumbomorphleather",
+      "category": "Leathers",
+      "defname": "Leather_Thrumbomorph",
+      "price": -10
+    },
+    {
+      "abr": "thrumbomorphmeat",
+      "category": "Meat",
+      "defname": "Meat_Thrumbomorph",
+      "price": -10
+    },
+    {
+      "abr": "thrumbomorphwool",
+      "category": "Wools",
+      "defname": "WoolThrumbomorph",
+      "price": -10
+    },
+    {
+      "abr": "thrumbomorph'shorn",
+      "category": "Items",
+      "defname": "ThrumbomorphHorn",
+      "price": -10
+    },
+    {
+      "abr": "xeushammer",
+      "category": "Special melee weapons",
+      "defname": "Nr_Xeushammer",
       "price": -10
     },
     {
@@ -5407,5 +5647,5 @@
       "price": -10
     }
   ],
-  "total": 901
+  "total": 941
 }

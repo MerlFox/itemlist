@@ -2257,36 +2257,6 @@
       "degree": -1
     },
     {
-      "description": "Timmy is a very mysterious nine tail fox.",
-      "stats": [
-        "+2.0 beauty"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Kyulen - NinetailFox",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2.0 beauty"
-        ]
-      },
-      "defName": "Kyulen",
-      "name": "kyulen",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is confident that everything will work out for the best.",
       "stats": [
         "+2 social",
@@ -11201,6 +11171,46 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is gives a strange impression to the opponent.",
+      "stats": [
+        "+2 social",
+        "-4% mental break threshold",
+        "+15.00% train animal chance",
+        "+15.00% tame animal chance",
+        "+15.00% trade price improvement",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ferian Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 social",
+          "-4% mental break threshold",
+          "+15.00% train animal chance",
+          "+15.00% tame animal chance",
+          "+15.00% trade price improvement",
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "Miraculous",
+      "name": "mysteriousenergy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -11224,6 +11234,73 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+$2000 Market value",
+          "+6.24 Move speed",
+          "+50% Flammability",
+          "-9.0C Minimum comfortable temperature",
+          "+24.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+120% Research speed",
+          "+75% Mining speed",
+          "+120.00% Social impact",
+          "+75% Construction speed",
+          "+120% Animal gather speed",
+          "+120% Animal gather yield",
+          "+115% Immunity gain speed",
+          "+150% Psychic sensitivity",
+          "+4.0 Shooting accuracy",
+          "+4 Honor value"
+        ],
+        "mod": "Ferian Faction",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
+      "defName": "AFerian",
+      "enabled": true,
+      "name": "Ferian",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4 Honor value",
+          "+75 Carrying capacity",
+          "+100% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+80% Rest rate multiplier",
+          "+80% Global work speed",
+          "+0 Foraged food amount",
+          "+100.00% Negotiation ability",
+          "+100.00% Social impact",
+          "+100.00% Trade price improvement",
+          "+40 Leather amount",
+          "+78% Pain shock threshold",
+          "+30% Mental break threshold",
+          "+18.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+5.00 Move speed",
+          "+95% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Nyaron race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "the Marvelous gift of glitterworld bionics. Humanoid with cat ears and tail.",
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
       "price": 2000
     }
   ]

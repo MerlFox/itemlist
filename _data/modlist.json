@@ -69,7 +69,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.3.841.0"
+    "version": "1.3.842.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -88,12 +88,6 @@
     "name": "Incident Person Stat",
     "steamId": "1414697588",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "Kyulen - NinetailFox",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "targhetti",
@@ -189,7 +183,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.5.1"
+    "version": "6.1.6.0"
   },
   {
     "author": "hodlhodl",
@@ -234,21 +228,69 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "Eccentric Tech - Cosmetic Modifications 2.0",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Andreas Pardeike and  BleuSquid",
     "name": "Puppeteer",
     "steamId": "2594873651",
-    "version": "1.6.0.0"
+    "version": "1.6.1.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Luon Astro",
+    "name": "Ferian Faction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Run and Hide (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Edge Crescent",
+    "name": "HousekeeperAssistanceCat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Martin Basterrechea",
+    "name": "XenoDiversity Precept",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Ferian Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "wagon",
+    "name": "More Monster Girls",
+    "steamId": "2014838309",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Better Message Placement (Continued)",
+    "steamId": null,
+    "version": null
   }
 ]
