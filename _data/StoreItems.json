@@ -226,7 +226,7 @@
       "abr": "bed",
       "category": "Furniture",
       "defname": "Bed",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "doublebed",
@@ -250,7 +250,7 @@
       "abr": "bedroll",
       "category": "Furniture",
       "defname": "Bedroll",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "doublebedroll",
@@ -1024,7 +1024,7 @@
       "abr": "billiardstable",
       "category": "Furniture",
       "defname": "BilliardsTable",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "tubetelevision",
@@ -3178,7 +3178,7 @@
       "abr": "bonsaipot",
       "category": "Furniture",
       "defname": "PlantPot_Bonsai",
-      "price": 82
+      "price": -10
     },
     {
       "abr": "box",
@@ -5644,7 +5644,7 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
   "total": 941
