@@ -3384,7 +3384,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
@@ -3401,7 +3401,7 @@
         ]
       },
       "defName": "GAT_Ares",
-      "name": "ares'wrath",
+      "name": "areswrath",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
@@ -3427,7 +3427,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
@@ -3447,7 +3447,7 @@
         ]
       },
       "defName": "GAT_Artemis",
-      "name": "artemis'blessing",
+      "name": "artemisblessing",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
@@ -3470,7 +3470,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
@@ -3487,7 +3487,7 @@
         ]
       },
       "defName": "GAT_Aphrodite",
-      "name": "aphrodite'sgrace",
+      "name": "aphroditesgrace",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
@@ -3511,7 +3511,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
@@ -3529,7 +3529,7 @@
         ]
       },
       "defName": "GAT_Mercury",
-      "name": "mercury'sblessing",
+      "name": "mercurysblessing",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
@@ -3555,7 +3555,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
@@ -3575,7 +3575,7 @@
         ]
       },
       "defName": "GAT_Sylvanus",
-      "name": "sylvanus'blessing",
+      "name": "sylvanusblessing",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
@@ -3600,7 +3600,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
@@ -3619,7 +3619,7 @@
         ]
       },
       "defName": "GAT_Vulcan",
-      "name": "vulcan'sfire",
+      "name": "vulcansfire",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
@@ -3643,7 +3643,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Additional Traits (Heroes + Gods Optional)",
         "karmaTypeForAdding": null,
@@ -3661,7 +3661,7 @@
         ]
       },
       "defName": "GAT_Imhotep",
-      "name": "imhotep'swisdom",
+      "name": "imhotepswisdom",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
