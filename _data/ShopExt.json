@@ -11658,7 +11658,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2000
+      "price": 1
     },
     {
       "data": {
@@ -11689,7 +11689,7 @@
       "defName": "AFerian",
       "enabled": true,
       "name": "Ferian",
-      "price": 3333
+      "price": 1
     },
     {
       "data": {
@@ -11725,7 +11725,7 @@
       "defName": "Alien_Nyaron",
       "enabled": true,
       "name": "Nyaron",
-      "price": 3333
+      "price": 1
     },
     {
       "data": {
@@ -11771,7 +11771,7 @@
       "defName": "SSD_DeathclawRace",
       "enabled": true,
       "name": "Deathcloid",
-      "price": 1667
+      "price": 1
     },
     {
       "data": {
@@ -11798,7 +11798,7 @@
       "defName": "Alien_BunTribe",
       "enabled": true,
       "name": "Bun",
-      "price": 2917
+      "price": 1
     },
     {
       "data": {
@@ -11838,7 +11838,7 @@
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
-      "price": 5833
+      "price": 1
     }
   ]
 }
