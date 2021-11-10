@@ -81,6 +81,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "toxicfallout",
+		"price": 6500,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "volcanicwinter",
 		"price": 3200,
 		"karmatype": "Doom"
@@ -193,6 +198,16 @@
 	{
 		"abr": "alphabeavers",
 		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpoison",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -406,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 81
+	"total": 84
 }
