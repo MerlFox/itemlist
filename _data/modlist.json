@@ -327,7 +327,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.6.2.1"
+    "version": "2.6.2.2"
   },
   {
     "author": "Dubwise",
@@ -364,5 +364,11 @@
     "name": "Smart Medicine",
     "steamId": "1309994319",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
   }
 ]
