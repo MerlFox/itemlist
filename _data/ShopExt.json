@@ -3497,106 +3497,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy is gives a strange impression to the opponent.",
-      "stats": [
-        "+2 social",
-        "-4% mental break threshold",
-        "+15.00% train animal chance",
-        "+15.00% tame animal chance",
-        "+15.00% trade price improvement",
-        "+15.00% social impact"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Ferian Race",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2 social",
-          "-4% mental break threshold",
-          "+15.00% train animal chance",
-          "+15.00% tame animal chance",
-          "+15.00% trade price improvement",
-          "+15.00% social impact"
-        ]
-      },
-      "defName": "Miraculous",
-      "name": "mysteriousenergy",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
       "stats": [
 
@@ -3715,6 +3615,106 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -2
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is gives a strange impression to the opponent.",
+      "stats": [
+        "+2 social",
+        "-4% mental break threshold",
+        "+15.00% train animal chance",
+        "+15.00% tame animal chance",
+        "+15.00% trade price improvement",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ferian Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 social",
+          "-4% mental break threshold",
+          "+15.00% train animal chance",
+          "+15.00% tame animal chance",
+          "+15.00% trade price improvement",
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "Miraculous",
+      "name": "mysteriousenergy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -3796,6 +3796,68 @@
       "defName": "Alien_BunTribe",
       "enabled": true,
       "name": "Bun",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$3000 Market value",
+          "+5 Honor value",
+          "+75 Carrying capacity",
+          "+100% Global learning factor",
+          "+80% Psychic sensitivity",
+          "+80% Rest rate multiplier",
+          "+70% Global work speed",
+          "+0 Foraged food amount",
+          "+120.00% Negotiation ability",
+          "+120.00% Social impact",
+          "+120.00% Trade price improvement",
+          "+40 Leather amount",
+          "+82% Pain shock threshold",
+          "+30% Mental break threshold",
+          "+22.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+5.20 Move speed",
+          "+95% Aiming time",
+          "+10.0 Melee dodge chance",
+          "+1.2 Melee hit chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+100% Flammability",
+          "+$3500 Market value",
+          "+5.25 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+3 Honor value",
+          "+90% Research speed",
+          "+125% Mining speed",
+          "+95.00% Social impact",
+          "+1.3 Melee dodge chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A bloodthirsty vulpine near-human.",
+      "defName": "ReviaRaceAlien",
+      "enabled": true,
+      "name": "Revia",
       "price": 100
     }
   ]
