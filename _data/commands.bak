@@ -1232,42 +1232,6 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Viewer class",
-    "usage": "!mypawnclass",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "MyPawnClass"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Ability level",
-    "usage": "!abilitylevel",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "AbilityLevel"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
       "mod": "Twitch Toolkit (Unofficial)"
     },
     "description": "Updates the current list of active viewers.",
@@ -1618,5 +1582,149 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitPawnQueue (Unofficial)"
+    },
+    "description": null,
+    "name": "joinqueue",
+    "usage": "!joinqueue",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "JoinQueue"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitPawnQueue (Unofficial)"
+    },
+    "description": null,
+    "name": "mypawnbody",
+    "usage": "!mypawnbody",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PawnBody"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitPawnQueue (Unofficial)"
+    },
+    "description": null,
+    "name": "mypawngear",
+    "usage": "!mypawngear",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PawnGear"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitPawnQueue (Unofficial)"
+    },
+    "description": null,
+    "name": "mypawnhealth",
+    "usage": "!mypawnhealth",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PawnHealth"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitPawnQueue (Unofficial)"
+    },
+    "description": null,
+    "name": "mypawnneeds",
+    "usage": "!mypawnneeds",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PawnNeeds"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitPawnQueue (Unofficial)"
+    },
+    "description": null,
+    "name": "mypawnskills",
+    "usage": "!mypawnskills",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PawnSkills"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitPawnQueue (Unofficial)"
+    },
+    "description": null,
+    "name": "mypawnstory",
+    "usage": "!mypawnstory",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PawnStory"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitPawnQueue (Unofficial)"
+    },
+    "description": null,
+    "name": "mypawnwork",
+    "usage": "!mypawnwork",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PawnWork"
   }
 ]
