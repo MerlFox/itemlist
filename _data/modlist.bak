@@ -1,5 +1,11 @@
 [
   {
+    "author": "HaiLuan",
+    "name": "Custom Quest Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Amlifurx",
     "name": "AF · Mech Fox",
     "steamId": null,
@@ -120,24 +126,6 @@
     "version": null
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Erin",
-    "name": "Vanilla Animals Expanded — Royal Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "general223 Updated by Ogliss",
     "name": "Wandering Caravans",
     "steamId": null,
@@ -146,6 +134,18 @@
   {
     "author": "bodlosh",
     "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HaiLuan",
+    "name": "Dungeon Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Alchemy (Continued)",
     "steamId": null,
     "version": null
   }
